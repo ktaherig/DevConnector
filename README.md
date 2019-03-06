@@ -1,6 +1,6 @@
 # Summary
 
-This is a fully-functional Full-Stack social network for portfolio demonstration purposes. The technologies it uses include:
+This is a fully-functional, large-scale Full-Stack social network for portfolio demonstration purposes. The technologies it uses include:
 * ExpressJS
 * MongoDB (provided live by [mLab](https://mlab.com/))
 * Mongoose

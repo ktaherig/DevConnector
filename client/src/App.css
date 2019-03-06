@@ -1,0 +1,66 @@
+img {
+	width: 100%;
+}
+
+/*
+.navbar {
+	z-index: 100;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+*/
+
+/*
+.site-wrapper {
+	display: flex;
+}
+*/
+
+/*
+Footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 160px;
+}
+*/
+
+.landing {
+	position: relative;
+	background: url('./img/code-Uralic-Union.jpg') no-repeat center center;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	height: 100vh;
+	margin-top: -24px;
+	margin-bottom: -50px;
+}
+
+.landing-inner {
+	padding-top: 80px;
+	position: center;
+}
+
+.dark-overlay {
+	background-color: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.card-form {
+	opacity: 0.9;
+}
+
+.latest-profiles-img {
+	width: 40px;
+	height: 40px;
+}
+
+.form-control::placeholder {
+	color: #bbb !important;
+}
+
